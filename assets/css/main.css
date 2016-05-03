@@ -1854,7 +1854,7 @@
 		}
 
 	h1 {
-		font-size: 2.25em;
+		font-size: 4.25em;
 		line-height: 1.35em;
 	}
 
@@ -2710,7 +2710,7 @@
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/overlay1.png"), url("../../images/header.jpg");
+			background-image: url("images/overlay1.png"), url("../../images/horseshoe.jpg");
 			background-size: auto,							cover;
 		}
 
